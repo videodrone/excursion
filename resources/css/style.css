@@ -1,22 +1,26 @@
-/*comment*/
-
 html {
 	background-color: black;
+	text-align: center;
+	font-family: Verdana;
 }
 
 h1 {
-	font-family: Verdana;
 	font-weight: normal;
 	font-size: 50px;
 	color: white;
 	text-align: center;	
 }
 
-p {
-	text-align: center;
+h2 {
+	font-size: 21px;
+	color: gray;
 }
 
 .download {
 	color: Aquamarine;
 	font-size: 16px;
+}
+
+.watermark {
+	text-align: right
 }
